@@ -46,6 +46,12 @@ body{
     text-decoration: underline solid;
 }
 
+.about-me img{
+    max-width: 20%;
+    max-height: 20%;
+    border-radius: 100px;
+}
+
 .my-work{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:white;
